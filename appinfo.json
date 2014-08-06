@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Peter Woodward",
+    "longName": "4 Minute Workout",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "Menu_Icon",
+                "type": "png"
+            },
+            {
+                "file": "images/stop_icon.png",
+                "name": "STOP",
+                "type": "png"
+            },
+            {
+                "file": "images/play_icon.png",
+                "name": "PLAY",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "4 Min Workout",
+    "uuid": "0988a739-1fe3-4f25-9d22-af3aaf217c6d",
+    "versionCode": 1,
+    "versionLabel": "0.2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
